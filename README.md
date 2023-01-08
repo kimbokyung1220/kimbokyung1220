@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 About Me
+------------
+### 안녕하세요
 
 <!--
 **kimbokyung1220/kimbokyung1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
